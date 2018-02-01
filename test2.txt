@@ -2,3 +2,4 @@ test
 test git stash
 gitt 
 git git 
+git stash save "J'ai tout cassé"
