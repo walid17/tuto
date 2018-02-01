@@ -1,1 +1,2 @@
 Test n°3 merging
+https://www.atlassian.com/git/tutorials/comparing-workflows
